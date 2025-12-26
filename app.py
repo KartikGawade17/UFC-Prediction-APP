@@ -109,3 +109,10 @@ if st.button("Predict Winner"):
             st.write(f"{result['fighter2']}: {result['fighter2_win_prob']}% chance")
         else:
             st.error("Could not generate prediction. Check fighter names.")
+
+
+st.components.v1.iframe(
+    "https://app.powerbi.com/view?r=eyJrIjoiNjAzYmNkOTktYzllYy00NjU3LWI3M2EtMTgyZTBiNGIzZTYwIiwidCI6IjcxMWYwNjQxLTc5ODUtNDRlNS1iMjQwLWQyZTk5MjZhNTVjMyJ9",
+    height=800,
+    scrolling=True
+)
