@@ -110,7 +110,13 @@ if st.button("Predict Winner"):
         else:
             st.error("Could not generate prediction. Check fighter names.")
 
-header_power_bi = st.title("🥊 UFC Power BI Dashboard CHECK PAGE 2 for F. Comparison")
+st.markdown("""
+## 📊 Power BI Dashboard  
+### *Check Page 2 for Fighter Comparison Insights*
+
+Below is the full interactive analytics dashboard built in Power BI.
+""")
+
 st.components.v1.iframe(
     "https://app.powerbi.com/view?r=eyJrIjoiNjAzYmNkOTktYzllYy00NjU3LWI3M2EtMTgyZTBiNGIzZTYwIiwidCI6IjcxMWYwNjQxLTc5ODUtNDRlNS1iMjQwLWQyZTk5MjZhNTVjMyJ9",
     height=800,
