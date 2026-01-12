@@ -6,6 +6,7 @@ https://ufc-prediction-app-62-kartik.streamlit.app/
 🔗 **Live Power BI Dashboard**
 https://app.powerbi.com/view?r=eyJrIjoiNjAzYmNkOTktYzllYy00NjU3LWI3M2EtMTgyZTBiNGIzZTYwIiwidCI6IjcxMWYwNjQxLTc5ODUtNDRlNS1iMjQwLWQyZTk5MjZhNTVjMyJ9
 
+NOTE: You can also see power bi dashboard inside the app too.
 ---
 
 ## 📌 Project Overview
