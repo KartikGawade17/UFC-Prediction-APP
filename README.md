@@ -34,7 +34,7 @@ This project combines **data engineering, machine learning, and interactive visu
   - Knockdowns, strikes, takedowns, submissions
   - Weight class, method, round, time
   - Fight outcomes
-- Cleaned and stored in **Azure SQL Database**
+- Cleaned in **Local MySQL Database** and later stored in **Azure SQL Database**
 
 ---
 
